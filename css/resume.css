@@ -112,7 +112,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.5rem solid rgba(55, 212, 89, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -160,17 +160,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: rgb(65, 235, 65) !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: rgb(41, 216, 50) !important;
 }
 
 a {
-  color: #BD5D38;
+  color: rgb(35, 172, 87);
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #3ab42f;
 }
